@@ -17,4 +17,3 @@ namespace BusinessLayer.ValidationRules.FluentValidation
         }
     }
 }
-//Rumeysa
